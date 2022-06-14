@@ -1,4 +1,4 @@
-### Hi there 👋
+### 최고를 위해 늘 최선을 다하는 개발자입니다.
 
 <!--
 **MinukLee1/MinukLee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
