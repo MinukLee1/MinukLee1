@@ -1,4 +1,4 @@
-### 포기하지 않는 끈기와 노력으로 성장하는 개발자
+####  Interactive한 개발자입니다.
 
 <!--
 **MinukLee1/MinukLee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
