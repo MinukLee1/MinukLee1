@@ -1,5 +1,4 @@
-####  유연한 자세로 Interactive한 개발자가 되는것이 목표입니다. 
-
+####  유연한 자세로 임하는 Interactive한 개발자입니다.
 <!--
 **MinukLee1/MinukLee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
